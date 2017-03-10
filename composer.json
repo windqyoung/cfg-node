@@ -1,0 +1,16 @@
+{
+    "name": "wqy/cfg-node",
+    "type": "library",
+    "authors": [
+        {
+            "name": "windsor",
+            "email": "txcses@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wqy\\Config\\": "src"
+        }
+    },
+    "require": {}
+}
